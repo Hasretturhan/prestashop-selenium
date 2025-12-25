@@ -14,5 +14,3 @@ Ek olarak `pytest-html` ile **HTML test raporu** üretilebilir.
 > Not: PrestaShop demo ortamı zaman zaman kararsız olabildiği için testlerde beklemeler (explicit wait) kullanılmıştır.
 
 ---
-
-## 🧱 Proje Yapısı
